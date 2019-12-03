@@ -1,0 +1,15 @@
+C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.CrossCuting\bin\Debug\netcoreapp3.0\CrossCutting.deps.json
+C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.CrossCuting\bin\Debug\netcoreapp3.0\CrossCutting.dll
+C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.CrossCuting\bin\Debug\netcoreapp3.0\CrossCutting.pdb
+C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.CrossCuting\bin\Debug\netcoreapp3.0\Data.dll
+C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.CrossCuting\bin\Debug\netcoreapp3.0\Domain.dll
+C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.CrossCuting\bin\Debug\netcoreapp3.0\Service.dll
+C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.CrossCuting\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.CrossCuting\bin\Debug\netcoreapp3.0\Service.pdb
+C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.CrossCuting\bin\Debug\netcoreapp3.0\Data.pdb
+C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.CrossCuting\obj\Debug\netcoreapp3.0\CrossCutting.csprojAssemblyReference.cache
+C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.CrossCuting\obj\Debug\netcoreapp3.0\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.CrossCuting\obj\Debug\netcoreapp3.0\CrossCutting.AssemblyInfo.cs
+C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.CrossCuting\obj\Debug\netcoreapp3.0\CrossCutting.csproj.CopyComplete
+C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.CrossCuting\obj\Debug\netcoreapp3.0\CrossCutting.dll
+C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.CrossCuting\obj\Debug\netcoreapp3.0\CrossCutting.pdb
