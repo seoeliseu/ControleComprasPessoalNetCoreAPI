@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Service\\Service.csproj": {}
+    "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Data\\Data.csproj": {
+    "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Data\\Data.csproj",
+        "projectPath": "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\elise\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Data\\obj\\",
+        "outputPath": "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\elise\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -30,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Domain\\Domain.csproj"
+              "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -79,21 +81,23 @@
         }
       }
     },
-    "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Domain\\Domain.csproj": {
+    "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\elise\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Domain\\obj\\",
+        "outputPath": "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\elise\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -140,21 +144,23 @@
         }
       }
     },
-    "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Service\\Service.csproj": {
+    "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Service\\Service.csproj",
+        "projectUniqueName": "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Service\\Service.csproj",
+        "projectPath": "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Service\\Service.csproj",
         "packagesPath": "C:\\Users\\elise\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Service\\obj\\",
+        "outputPath": "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\elise\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -166,11 +172,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Data\\Data.csproj"
+              "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\elise\\OneDrive\\CursoDotNetCore\\src\\Api.Domain\\Domain.csproj"
+              "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\GitRepositorio\\ControleComprasPessoalNetCoreAPI\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -184,9 +190,9 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
-            "System.IdentityModel.Tokens.Jwt": {
+            "AutoMapper": {
               "target": "Package",
-              "version": "[5.6.0, )"
+              "version": "[9.0.0, )"
             }
           },
           "imports": [

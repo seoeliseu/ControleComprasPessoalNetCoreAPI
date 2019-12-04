@@ -11,3 +11,16 @@ C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.Data\obj\Debug\netcoreapp3.0\Dat
 C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.Data\obj\Debug\netcoreapp3.0\Data.csproj.CopyComplete
 C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.Data\obj\Debug\netcoreapp3.0\Data.dll
 C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.Data\obj\Debug\netcoreapp3.0\Data.pdb
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Data\bin\Debug\netcoreapp3.0\Data.deps.json
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Data\bin\Debug\netcoreapp3.0\Data.runtimeconfig.json
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Data\bin\Debug\netcoreapp3.0\Data.runtimeconfig.dev.json
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Data\bin\Debug\netcoreapp3.0\Data.dll
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Data\bin\Debug\netcoreapp3.0\Data.pdb
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Data\bin\Debug\netcoreapp3.0\Domain.dll
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Data\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Data\obj\Debug\netcoreapp3.0\Data.csprojAssemblyReference.cache
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Data\obj\Debug\netcoreapp3.0\Data.AssemblyInfoInputs.cache
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Data\obj\Debug\netcoreapp3.0\Data.AssemblyInfo.cs
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Data\obj\Debug\netcoreapp3.0\Data.csproj.CopyComplete
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Data\obj\Debug\netcoreapp3.0\Data.dll
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Data\obj\Debug\netcoreapp3.0\Data.pdb

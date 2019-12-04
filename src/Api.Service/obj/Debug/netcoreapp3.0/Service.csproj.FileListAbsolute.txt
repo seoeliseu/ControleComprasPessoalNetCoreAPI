@@ -11,3 +11,16 @@ C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.Service\obj\Debug\netcoreapp3.0\
 C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.Service\obj\Debug\netcoreapp3.0\Service.csproj.CopyComplete
 C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.Service\obj\Debug\netcoreapp3.0\Service.dll
 C:\Users\elise\OneDrive\CursoDotNetCore\src\Api.Service\obj\Debug\netcoreapp3.0\Service.pdb
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Service\bin\Debug\netcoreapp3.0\Service.deps.json
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Service\bin\Debug\netcoreapp3.0\Service.dll
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Service\bin\Debug\netcoreapp3.0\Service.pdb
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Service\bin\Debug\netcoreapp3.0\Data.dll
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Service\bin\Debug\netcoreapp3.0\Domain.dll
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Service\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Service\bin\Debug\netcoreapp3.0\Data.pdb
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Service\obj\Debug\netcoreapp3.0\Service.csprojAssemblyReference.cache
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Service\obj\Debug\netcoreapp3.0\Service.AssemblyInfoInputs.cache
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Service\obj\Debug\netcoreapp3.0\Service.AssemblyInfo.cs
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Service\obj\Debug\netcoreapp3.0\Service.csproj.CopyComplete
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Service\obj\Debug\netcoreapp3.0\Service.dll
+C:\GitRepositorio\ControleComprasPessoalNetCoreAPI\src\Api.Service\obj\Debug\netcoreapp3.0\Service.pdb
